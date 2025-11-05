@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there 👋, I'm Deepak Bisht
 
-<!--
-**DeepakBisht4002/DeepakBisht4002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Frontend Developer | MERN Stack Enthusiast
 
-Here are some ideas to get you started:
+I’m a passionate frontend developer, focused on building **modern, responsive, and user-friendly web applications**. I love turning ideas into interactive experiences and learning new technologies along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+### **Frontend**
+- HTML5 | CSS3 | JavaScript (ES6+)  
+- React.js | Redux | Next.js  
+- Tailwind CSS | SCSS | Styled Components  
+- Responsive & Accessible UI Design  
+
+### **Backend Basics**
+- Node.js | Express.js  
+- MongoDB (basic CRUD operations)  
+
+### **Tools & Platforms**
+- Git | GitHub | VS Code | Postman  
+- Deployment: Vercel, Netlify, Heroku  
+- Basics of Docker & CI/CD  
+
+---
+
+## 📊 GitHub Stats
+
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepakBisht4002&show_icons=true&theme=dark)
+
+---
+
+## 📫 Connect with Me
+
+- **LinkedIn:** [Deepak Bisht](https://www.linkedin.com/in/deepakbisht2004/) 
+
+---
+
+## ⚡ Fun Fact
+- I love exploring new frontend libraries and frameworks.  
+- Currently focusing on **React, TypeScript, and modern UI/UX patterns**.  
+
+---
+
+### ✨ Always learning, always building!
